@@ -12,4 +12,5 @@ Uma página inicial básica, que futuramente será melhorada e terá seu tema co
 ## 💻 Tecnologias
 
 >HTML
+>
 >CSS
